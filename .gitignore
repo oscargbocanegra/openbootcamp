@@ -3,11 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
-bootcamplearnjava/out/
-bootcamplearnjava/OpenbootcampJava.iml
-bootcamplearnjava/bootcamplearnjava.iml
-bootcamplearnjava/.idea
+bootcamlearn.iml
 bootcamstudy.iml
+bootcamplearnjava/out/
+bootcamplearnjava/bootcamplearnjava.iml
 
 ### Eclipse ###
 .apt_generated
