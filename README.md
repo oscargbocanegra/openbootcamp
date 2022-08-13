@@ -7,7 +7,7 @@ ___
 * Dentro del paquete crear una clase.
 * Dentro de la clase crear un método main
 * Imprimir todos los tipos de datos vistos.
-* Tipos de datos mas comunes:
+* Tipos de datos más comunes:
 * int, long, double, boolean, String
 
 ___
@@ -17,9 +17,17 @@ ___
 # Ejercicio Tema 3:
 * Crear un bucle que permita concatenar textos e imprima el resultado final por consola
 * concatenar nombres
-* los textos puedenvenir de un array
+* los textos pueden venir de un array
 * separados por un espacio
 * Ejemplo
 * "Pepe","Juan","Anthony"
 * Resultado
 * Pepe Juan Antony (En la misma Linea)
+___
+# Ejercicio Tema 4:
+* Crear clase SmartDevice
+* Crear las clases hijas (SmartPhone, SmartWatch)
+* Agregar atributos tal cual tendrían esos objetos en la realidad.
+* Crear constructor vacío y con todo los parámetros para cada clase.
+* Desde una clase Main: crear objetos de cada una y utilizarlos para imprimir sus valores por consola.
+___
