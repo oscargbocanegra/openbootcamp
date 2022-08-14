@@ -31,3 +31,10 @@ ___
 * Crear constructor vacío y con todo los parámetros para cada clase.
 * Desde una clase Main: crear objetos de cada una y utilizarlos para imprimir sus valores por consola.
 ___
+# Ejercicio Tema 5:
+* Crear una interfaz CocheCRUD.
+* Crear una implementación CocheCRUDImpl que implemente la interfaz CocheCRUD.
+* Como métodos de CocheCRUD podemos poner:
+* save() findAll() delete() que simplemente impriman por consola el nombre del propio método.
+* Desde una clase Main, Crear un objeto de tipo CocheCRUDImpl y llamar a cada uno de los métodos.
+___
